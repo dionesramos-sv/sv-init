@@ -1,0 +1,310 @@
+{
+  "name": "studiovisual/inforchannel",
+  "license": "proprietary",
+  "description": "Portal Inforchannel",
+  "authors": [
+    {
+      "name": "João Pedro",
+      "email": "jtiberio@studiovisual.com.br",
+      "homepage": "https://github.com/jptiberio"
+    },
+    {
+      "name": "Tiago Papile",
+      "email": "tpapile@studiovisual.com.br",
+      "homepage": "https://github.com/tiagopapile"
+    },
+    {
+      "name": "Diones Ramos",
+      "email": "dramos@studiovisual.com.br",
+      "homepage": "https://github.com/dramos-sv"
+    }
+  ],
+  "repositories":[
+    {
+      "type":"composer",
+      "url":"https://wpackagist.org"
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/advanced-custom-fields-pro",
+        "type": "wordpress-plugin",
+        "version": "5.12.2",
+        "dist": {
+          "url": "https://connect.advancedcustomfields.com/v2/plugins/download?p=pro&k=b3JkZXJfaWQ9NzgwNDN8dHlwZT1kZXZlbG9wZXJ8ZGF0ZT0yMDE2LTAzLTIzIDE3OjE2OjI2&t=5.12.2",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/blog2social",
+        "type": "wordpress-plugin",
+        "version": "6.9.9",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/blog2social.6.9.9.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/classic-editor",
+        "type": "wordpress-plugin",
+        "version": "1.6.2",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/classic-editor.1.6.2.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/cloudflare",
+        "type": "wordpress-plugin",
+        "version": "4.10.1",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/cloudflare.4.10.1.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/google-analytics-dashboard-for-wp",
+        "type": "wordpress-plugin",
+        "version": "7.6.0",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/google-analytics-dashboard-for-wp.7.6.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/google-analytics-for-wordpress",
+        "type": "wordpress-plugin",
+        "version": "8.9.0",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/google-analytics-for-wordpress.8.9.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/gravity-forms-custom-post-types",
+        "type": "wordpress-plugin",
+        "version": "3.1.27",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/gravity-forms-custom-post-types.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/duracelltomi-google-tag-manager",
+        "type": "wordpress-plugin",
+        "version": "1.16",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/duracelltomi-google-tag-manager.1.16.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/meks-flexible-shortcodes",
+        "type": "wordpress-plugin",
+        "version": "1.3.4",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/meks-flexible-shortcodes.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/wp-user-avatar",
+        "type": "wordpress-plugin",
+        "version": "3.2.15",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/wp-user-avatar.3.2.15.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/scheduled-post-trigger",
+        "type": "wordpress-plugin",
+        "version": "3.0",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/scheduled-post-trigger.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/sucuri-scanner",
+        "type": "wordpress-plugin",
+        "version": "1.8.32",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/sucuri-scanner.1.8.32.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/wp-linkedin-auto-publish",
+        "type": "wordpress-plugin",
+        "version": "7.11",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/wp-linkedin-auto-publish.7.11.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/twitter-auto-publish",
+        "type": "wordpress-plugin",
+        "version": "1.4.2",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/twitter-auto-publish.1.4.2.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/wps-hide-login",
+        "type": "wordpress-plugin",
+        "version": "1.9.6",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/wps-hide-login.1.9.6.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/wpscan",
+        "type": "wordpress-plugin",
+        "version": "1.15.5",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/wpscan.1.15.5.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/fakerpress",
+        "type": "wordpress-plugin",
+        "version": "0.5.3",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/fakerpress.0.5.3.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/wp-mailhog-smtp",
+        "type": "wordpress-plugin",
+        "version": "1.0.1",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/wp-mailhog-smtp.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "wp-plugins/wp-mail-smtp",
+        "type": "wordpress-plugin",
+        "version": "3.4.0",
+        "dist": {
+          "url": "https://downloads.wordpress.org/plugin/wp-mail-smtp.3.4.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    {
+      "type": "package",
+      "package": {
+        "name": "gravityforms/gravityforms",
+        "version": "2.6.7",
+        "type": "wordpress-plugin",
+        "dist": {
+          "type": "zip",
+          "url": "https://www.gravityhelp.com/wp-content/plugins/gravitymanager/api.php?op=get_plugin&slug=gravityforms&key={%WP_PLUGIN_GF_KEY}"
+        },
+        "require": {
+          "composer/installers": "dev-main",
+          "gotoandplay/gravityforms-composer-installer": "^2.3"
+        }
+      }
+    }
+  ],
+  "extra": {
+    "installer-paths": {
+      "./wp-content/plugins/{$name}/": ["type:wordpress-plugin"]
+    }
+  },
+  "require": {
+    "composer/installers": "dev-main",
+    "vlucas/phpdotenv": "5.4.1",
+    "wp-plugins/advanced-custom-fields-pro": "5.12.2",
+    "wp-plugins/fakerpress": "0.5.3",
+    "wp-plugins/wp-mailhog-smtp": "1.0.1",
+    "wpackagist-plugin/wp-mail-smtp": "3.4.0",
+    "wp-plugins/blog2social": "6.9.9",
+    "wp-plugins/classic-editor": "1.6.2",
+    "wp-plugins/cloudflare": "4.10.1",
+    "wp-plugins/google-analytics-dashboard-for-wp": "7.6.0",
+    "wp-plugins/google-analytics-for-wordpress": "8.9.0",
+    "wp-plugins/gravity-forms-custom-post-types": "3.1.27",
+    "wp-plugins/duracelltomi-google-tag-manager": "1.16",
+    "wp-plugins/meks-flexible-shortcodes": "1.3.4",
+    "wp-plugins/wp-user-avatar": "3.2.15",
+    "wp-plugins/scheduled-post-trigger": "3.0",
+    "wp-plugins/sucuri-scanner": "1.8.32",
+    "wp-plugins/wp-linkedin-auto-publish": "7.11",
+    "wp-plugins/twitter-auto-publish": "1.4.2",
+    "wp-plugins/wps-hide-login": "1.9.6",
+    "wp-plugins/wpscan": "1.15.5",
+    "gotoandplay/gravityforms-composer-installer": "^2.3",
+    "gravityforms/gravityforms": "*"
+  },
+  "prefer-stable": true,
+  "config": {
+    "allow-plugins": {
+      "composer/installers": true,
+      "ffraenz/private-composer-installer": true,
+      "gotoandplay/gravityforms-composer-installer": true
+    }
+  }
+}

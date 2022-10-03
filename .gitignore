@@ -1,0 +1,13 @@
+vendor/
+wp-includes
+wp-content/plugins
+wp-content/uploads
+.idea
+.cache-loader
+public
+node_modules
+npm-debug.log
+yarn-error.log
+auth.json
+
+composer.lock
